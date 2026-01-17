@@ -2,5 +2,20 @@
 
 👨‍💻 About Me
 ```yaml
-name: Gustavo
+name: Gustavo,
+country: France,
+Status: young dev,
+Dev skills: {
+  Python
+  Lua
+  C
+  C++
+},
+
+currently_learning: {
+  C
+  C++
+},
+
+hobbies: [Gaming, Code, cybersecurity]
 ```
