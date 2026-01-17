@@ -19,3 +19,5 @@ currently_learning: {
 
 hobbies: [Gaming, Code, cybersecurity]
 ```
+
+![python](https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/python/python-original.svg)
