@@ -20,8 +20,10 @@ currently_learning: {
 hobbies: [Gaming, Code, cybersecurity]
 ```
 
+<h2> 🚀Skills </h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/python/python-original.svg" alt="py" width="45" height="45/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 </p>
