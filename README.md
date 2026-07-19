@@ -16,6 +16,10 @@ currently_learning: {
 hobbies: [Gaming, Code, cybersecurity]
 ```
 
+## Link🪢
+
+[guns.lol](guns.lol/kuro47)
+
 <h2> 🚀Skills </h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/python/python-original.svg" alt="py" width="45" height="45/>
