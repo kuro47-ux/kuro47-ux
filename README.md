@@ -18,7 +18,7 @@ hobbies: [Gaming, Code, cybersecurity]
 
 ## Link🪢
 
-[guns.lol](guns.lol/kuro47)
+[guns.lol](https://guns.lol/kuro47)
 
 <h2> 🚀Skills </h2>
 <p align="left">
